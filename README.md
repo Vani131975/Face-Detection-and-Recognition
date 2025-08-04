@@ -18,7 +18,7 @@ This project performs real-time face recognition using a webcam. It uses the Dee
 
 ### Setup Instructions
 
-1. Install dependencies
+Install dependencies
 
 pip install deepface opencv-python
 
