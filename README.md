@@ -1,24 +1,22 @@
-# Face-Detection-and-Recognition
-
-# Real-Time Face Recognition using DeepFace and OpenCV
+# Real-Time Face Detection and Recognition using DeepFace and OpenCV
 
 This project performs real-time face recognition using a webcam. It uses the DeepFace library with the ArcFace model to compare a live video feed against a known image and label recognized faces.
 
-## Overview
+### Overview
 
 - Captures video from the webcam using OpenCV
 - Detects faces using Haar Cascade classifiers
 - Compares detected faces with a reference image using DeepFace's verify() method
 - Displays bounding boxes and identity labels ("vani" or "Unknown") in real-time
 
-## Technologies Used
+### Technologies Used
 
 - Python
 - OpenCV
 - DeepFace (ArcFace model)
 - Haar Cascades for face detection
 
-## Setup Instructions
+### Setup Instructions
 
 1. Install dependencies
 
